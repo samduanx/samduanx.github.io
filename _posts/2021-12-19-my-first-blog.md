@@ -6,7 +6,4 @@ categories: [Test, Blog]
 tags: [test]     # TAG names should always be lowercase
 
 ---
-
-# My First Blog
-
 This is a test of the blog.
