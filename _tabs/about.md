@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-This is a typical blog of a typical student, Sam Duan from China. I am an OSS advocate and a commie. Using Windows unfortunately for hardware reasons.
+This is a typical blog of a typical university student. I am an OSS advocate (trying to use OSS in my life) and a commie.
